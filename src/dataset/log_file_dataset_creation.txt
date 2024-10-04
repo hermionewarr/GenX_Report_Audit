@@ -1,0 +1,60 @@
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
